@@ -1,6 +1,6 @@
 import { CommonModule } from '@angular/common';
 import { Component, OnInit } from '@angular/core';
-import { MostrarlistaService } from '../servicios/mostrarlista.service';
+import { MostrarlistaService } from '../../servicios/mostrarlista.service';
 
 @Component({
   selector: 'app-listautos',
