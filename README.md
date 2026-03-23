@@ -1,3 +1,5 @@
 # PaginaWebConcesionaria
 
--- A DEFINIR FORMATO -- 
+##Prototipo
+MagicLoops: https://magicloops.dev/builder/modelo-visual-de-concesionaria
+
