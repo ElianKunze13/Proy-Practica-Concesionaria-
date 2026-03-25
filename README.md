@@ -1,7 +1,7 @@
 # PaginaWebConcesionaria
 
 ## Prototipo
-- MagicLoops: https://magicloops.dev/builder/modelo-visual-de-concesionaria
+- MagicLoops: [https://magicloops.dev/builder/modelo-visual-de-concesionaria](https://modelo-visual-de-concesionaria.magicloops.app/)
 
 
 ## Tareas
